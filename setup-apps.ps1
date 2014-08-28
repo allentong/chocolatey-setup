@@ -1,0 +1,54 @@
+cinst 7zip
+cinst atom
+cinst ConEmu
+cinst deluge
+cinst far-3
+cinst filezilla
+cinst freeMind
+cinst git.install
+cinst git-flow-dependencies
+cinst gitextensions
+cinst gnuWin
+cinst greenshot
+cinst nodejs
+cinst python3
+cinst robomongo
+cinst sourcetree
+cinst vim
+cinst vlc
+
+
+
+# SIG # Begin signature block
+# MIIFuQYJKoZIhvcNAQcCoIIFqjCCBaYCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
+# gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUeoX0Km2TgVJSrRJ74yRxpNmw
+# J1ygggNCMIIDPjCCAiqgAwIBAgIQ5sz3RAcby5FC2gHcb756CDAJBgUrDgMCHQUA
+# MCwxKjAoBgNVBAMTIVBvd2VyU2hlbGwgTG9jYWwgQ2VydGlmaWNhdGUgUm9vdDAe
+# Fw0xNDA4MjIxOTEzMjVaFw0zOTEyMzEyMzU5NTlaMBoxGDAWBgNVBAMTD1Bvd2Vy
+# U2hlbGwgVXNlcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALW+FCiW
+# o10bbf5hbbTA+J2WVGkOYf8nAB51CmmAMJdVE/JjJe5+ynxS7BYjAomLdP2tMHU3
+# ATTTuvU7sV4zbdrEC4O8/LYOHiM/ShyYCZXcN1LYnmQE+4Hy3378g2inGjQ4wfk7
+# /WEu7sY2GWU5XURq/9i7xGKUVAsbu+jZEtkdOb+lsmj72BadNIqOpgaHrH0H4xAe
+# sQpqQdJKTqIm6/cGKyMM1lsy0emmbtOGhbknIhTjpbXmmaoM+nbUFbUGN24HKA4V
+# y7e39ayx9WRAXAhtFkBS/qAayEZogI3ZaN/+JFoXhIT2aZOvrkVwer/1UeJuHrvg
+# 1X6umYHf95iPnpMCAwEAAaN2MHQwEwYDVR0lBAwwCgYIKwYBBQUHAwMwXQYDVR0B
+# BFYwVIAQveFroHFr4qaJOFIfxemqqqEuMCwxKjAoBgNVBAMTIVBvd2VyU2hlbGwg
+# TG9jYWwgQ2VydGlmaWNhdGUgUm9vdIIQ+yAWzeHQWpJEbdPmSHFmITAJBgUrDgMC
+# HQUAA4IBAQCwMhNnVJzQq49e47sn/3KdQ4bbi9eN4srbY0/5wiwHq0xd08QaW+sA
+# lIhwBfGy7hj56ug93V4DrxMPB3AQGz8ApGbM0okC2HxjFFcPyM6dU/xjm5dPPG6V
+# Kx/uaPTeQ2rmdaYSOBrtLQpQUPyBbATX8gFVIAfU1eLjbr47yi86rku/i+pPJWlN
+# 0Gfe7uq1Z9T626GeBh+BywMc9CKwPlG0x0mpyP9MXEQQy9EkRd23KwjPRP7AQ9Th
+# XJ0X+V8EuB8VMdDs8K4ni8yu6AzSqU0aSYjL+J3VPDqJ8jSTMzpt/M3ZntJTAxxi
+# dqHFk+mgoczPWt5n/UkJr5Oh03vE5/XYMYIB4TCCAd0CAQEwQDAsMSowKAYDVQQD
+# EyFQb3dlclNoZWxsIExvY2FsIENlcnRpZmljYXRlIFJvb3QCEObM90QHG8uRQtoB
+# 3G++eggwCQYFKw4DAhoFAKB4MBgGCisGAQQBgjcCAQwxCjAIoAKAAKECgAAwGQYJ
+# KoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEOMAwGCisGAQQB
+# gjcCARUwIwYJKoZIhvcNAQkEMRYEFNqSc7114acinmARAWPqA/++opqlMA0GCSqG
+# SIb3DQEBAQUABIIBAAv7q9XAWQ+MNkXAU0/+/dHQw1H1FEDSCydb6WxUuYyh5S6n
+# +p2fw3iY1DNfRVU7ZXTo8LUCtkR5bDt6NPiYUHBBrxiabG1Tzib6mplCZslK3pXn
+# 4DZ57ngmTpszofPhFW8rgkQrAcuEIm4m3OAq+qpDPiIWM1toNIEiZKPIAY3v0Hyu
+# OGdaYSTOYXhgeOcj/6DdRqoojUY4XrwkZa56hqJJf50Ml2nIzrfY4wJ0StUxwGz1
+# pRED4KCqL0exqk2u9vfgttULAf9ZOwuzOMDYlf7mm0CYkxRQbCa3XYxnQQ+zUcKI
+# o7WIJ/huqFMu8AufD6LSh2MJqmtx0UbOan3d/Hc=
+# SIG # End signature block
