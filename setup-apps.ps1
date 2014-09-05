@@ -12,6 +12,7 @@ cinst gnuWin
 cinst greenshot
 cinst nodejs
 cinst python3
+cinst rdcman
 cinst robomongo
 cinst sourcetree
 cinst vim
