@@ -10,6 +10,7 @@ cinst python3
 cinst robomongo
 cinst sourcetree
 cinst vim
+cinst sublimetext2
 
 
 
